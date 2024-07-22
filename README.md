@@ -1,2 +1,2 @@
 # Anexat
-Nexo de direcciones web.
+¿Estás cansado de que se restaure la configuración de tu navegador? ¿Perder todos los marcadores? No tener tiempo para arreglar esto, es una situación estresante, y lo sé. Por eso vengo trabajando desde hace años, en una solución, que ha ido evolucionando, hasta ser Anexat. Un nexo de vínculos web, que vos puedas ordenar en carpetas, como si fueran directorios de archivos, accederlos, editarlos, y guardarlos en tu usuario personal. Un navegador dentro de otro. Íncreible.
